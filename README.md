@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **egwang1@uci.edu**
 
-- ⚡ About **Hey there! I'm Emily Gao Wang, a Computer Science and Software Engineering major at UC Irvine. My journey includes hands-on experience as a Software Engineer Intern at OOTify Company, where I honed my skills in Python, HTML, CSS, and JavaScript. Not just that, I've also been a guiding light as a Lab Tutor, aiding peers through the complexities of programming. Projects like Petr’s Wardrobe and HackSport showcase my collaborative spirit and innovative mindset. I'm on the lookout for an Summer Internship that not only challenges me but also allows me to contribute my blend of technical skills, creativity, and teamwork. Let's create something amazing together!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emilygoodjob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilygoodjob" height="30" width="40" /></a>
