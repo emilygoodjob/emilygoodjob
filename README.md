@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">A Software Engineer and A Student Researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilygoodjob&label=Profile%20views&color=0e75b6&style=flat" alt="emilygoodjob" /> </p>
-
 - 🔭 I’m currently working on [Meow](https://github.com/emilygoodjob/Meow)
 
 - 🌱 I’m currently learning **Software Engineering and Machine Learning skills.**
