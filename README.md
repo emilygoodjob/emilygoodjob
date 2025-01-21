@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">A Software Engineer and A Student Researcher.</h3>
 
-- 🔭 I’m currently working on [Meow](https://github.com/emilygoodjob/Meow)
+- 🔭 I’m currently working on [Fabflix](https://github.com/uci-jherold2-fall24-cs122b/2024-fall-cs-122b-emily-shelly-goodjob)
 
 - 🌱 I’m currently learning **Software Engineering and Machine Learning skills.**
 
